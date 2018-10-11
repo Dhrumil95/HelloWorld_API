@@ -1,0 +1,7 @@
+C:\Users\patel.d\source\repos\HelloWorld\MessageAPI\obj\Debug\MessageAPI.csprojAssemblyReference.cache
+C:\Users\patel.d\source\repos\HelloWorld\MessageAPI\obj\Debug\MessageAPI.csproj.CoreCompileInputs.cache
+C:\Users\patel.d\source\repos\HelloWorld\MessageAPI\bin\Debug\MessageAPI.dll.config
+C:\Users\patel.d\source\repos\HelloWorld\MessageAPI\bin\Debug\MessageAPI.dll
+C:\Users\patel.d\source\repos\HelloWorld\MessageAPI\bin\Debug\MessageAPI.pdb
+C:\Users\patel.d\source\repos\HelloWorld\MessageAPI\obj\Debug\MessageAPI.dll
+C:\Users\patel.d\source\repos\HelloWorld\MessageAPI\obj\Debug\MessageAPI.pdb

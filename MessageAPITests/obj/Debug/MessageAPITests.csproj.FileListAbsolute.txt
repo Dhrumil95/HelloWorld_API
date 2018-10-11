@@ -1,0 +1,11 @@
+C:\Users\patel.d\source\repos\HelloWorld\MessageAPITests\obj\Debug\MessageAPITests.csprojAssemblyReference.cache
+C:\Users\patel.d\source\repos\HelloWorld\MessageAPITests\obj\Debug\MessageAPITests.csproj.CoreCompileInputs.cache
+C:\Users\patel.d\source\repos\HelloWorld\MessageAPITests\bin\Debug\MessageAPITests.dll
+C:\Users\patel.d\source\repos\HelloWorld\MessageAPITests\bin\Debug\MessageAPITests.pdb
+C:\Users\patel.d\source\repos\HelloWorld\MessageAPITests\bin\Debug\MessageAPI.dll
+C:\Users\patel.d\source\repos\HelloWorld\MessageAPITests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\patel.d\source\repos\HelloWorld\MessageAPITests\bin\Debug\MessageAPI.pdb
+C:\Users\patel.d\source\repos\HelloWorld\MessageAPITests\bin\Debug\MessageAPI.dll.config
+C:\Users\patel.d\source\repos\HelloWorld\MessageAPITests\obj\Debug\MessageAPITests.csproj.CopyComplete
+C:\Users\patel.d\source\repos\HelloWorld\MessageAPITests\obj\Debug\MessageAPITests.dll
+C:\Users\patel.d\source\repos\HelloWorld\MessageAPITests\obj\Debug\MessageAPITests.pdb
